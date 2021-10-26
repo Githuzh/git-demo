@@ -14,5 +14,5 @@ hello git！hello git！
 hello git！hello git！
 hello git！hello git！
 hello git！hello git！
-hello git！hello git！fix
+hello git！hello git！
 fix分支
